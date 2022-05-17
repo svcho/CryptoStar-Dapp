@@ -1,0 +1,6 @@
+   Deploying 'StarNotary'
+   ----------------------
+   > transaction hash:    0xef1d6cdae16be68cbb65a42b3efa90af28fd5e4d88dd4be6560ff627224cf654
+   > Blocks: 1            Seconds: 12
+   > contract address:    0x792925Ef40e504B460dE21d68106Ce6CE5b848AB
+   > account:             0x559FeA31D80168B8658a9345c7C65EA7282f8719
