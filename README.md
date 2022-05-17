@@ -2,11 +2,13 @@
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
 ### General Information
+```
 ERC-721 Token Name: Udacity Dollar
 ERC-721 Token Symbol: UDD
 Version of Truffle used: 5.0.2
 Version of OpenZeppelin used: 2.3
 Token Address on the Rinkeby Network: 0x792925Ef40e504B460dE21d68106Ce6CE5b848AB
+```
 
 ### Dependencies
 For this project, you will need to have:
